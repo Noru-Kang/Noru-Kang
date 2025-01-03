@@ -7,7 +7,7 @@ and I'm currently studying in the CAU-ET AI lab.
 
 ## 🔧 Tools
 ### Languages
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=3776AB" />
 
 
 <!--
