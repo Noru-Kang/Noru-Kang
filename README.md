@@ -1,9 +1,11 @@
 ## Hi there 👋
 
-I'm a student interested in Data and ML/DL.   
+I'm a student interested in **Data** and **ML/DL**.   
+<br>
 I've been studying various fields, but now I'm going to try to deepen my studies with data-related places.   
+<br>
 I mostly use models rather than analysis,   
-and I'm currently studying in the CAU-ET AI lab.
+and I'm currently studying in the **"CAU-ET"** AI lab.
 
 ## 🔧 Tools
 ### Languages
