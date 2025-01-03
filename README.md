@@ -11,7 +11,7 @@ and I'm currently studying in the CAU-ET AI lab.
 <img src="https://img.shields.io/badge/python-808080?style=for-the-badge&logo=python&logoColor=000000" />
 
 ### 
-<img src="https://img.shields.io/badge/R-808080?style=for-the-badge&logo=python&logoColor=000000" />
+<img src="https://img.shields.io/badge/R-808080?style=for-the-badge&logo=R&logoColor=000000" />
 
 <!--
 **Noru-Kang/Noru-Kang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
