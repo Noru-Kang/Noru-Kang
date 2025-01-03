@@ -7,7 +7,7 @@ and I'm currently studying in the CAU-ET AI lab.
 
 ## 🔧 Tools
 ### Languages
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 
 <!--
 **Noru-Kang/Noru-Kang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
