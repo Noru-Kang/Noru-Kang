@@ -31,11 +31,13 @@ I have a strength in **Modeling** rather than analyzing data (It's not that I ca
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)![java_score](https://img.shields.io/badge/-[2/5]-gray?style=flat-square&logoColor=white)
 
 ---
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Noru-Kang&show_icons=true&theme=transparent)
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noru-Kang&layout=compact)
+---
 
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noru-Kang)
-<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noru-Kang)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noru-Kang&hide=contribs,prs&show_icons=true&theme=테마)
+
+
+
 
 <!--
 ### Tools 🛠️  
