@@ -10,7 +10,7 @@ I have a strength in **Modeling** rather than analyzing data (It's not that I ca
 
 ### Stack 🛠️  
 
-#### Data Science & ML/DL 📊  
+##### Data Science & ML/DL 📊  
 ![python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)![python_score](https://img.shields.io/badge/-[4/5]-gray?style=flat-square&logoColor=white)
 ![r](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)![r_score](https://img.shields.io/badge/-[3/5]-gray?style=flat-square&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)![pytorch_score](https://img.shields.io/badge/-[3.5/5]-gray?style=flat-square&logoColor=white)
@@ -18,15 +18,15 @@ I have a strength in **Modeling** rather than analyzing data (It's not that I ca
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)![keras_score](https://img.shields.io/badge/-[3/5]-gray?style=flat-square&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)![scikit_score](https://img.shields.io/badge/-[3.5/5]-gray?style=flat-square&logoColor=white)
 
-#### DataBase 🗄️  
+##### DataBase 🗄️  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white)![sql_score](https://img.shields.io/badge/-[2/5]-gray?style=flat-square&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)![mysql_score](https://img.shields.io/badge/-[3/5]-gray?style=flat-square&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=google-bigquery&logoColor=white)![bigquery_score](https://img.shields.io/badge/-[2/5]-gray?style=flat-square&logoColor=white)
 
-#### Visualization 📈  
+##### Visualization 📈  
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)![tableau_score](https://img.shields.io/badge/-[2/5]-gray?style=flat-square&logoColor=white)
 
-#### ETC 📚 (familiar with)   
+##### ETC 📚 (familiar with)   
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)![c_score](https://img.shields.io/badge/-[2/5]-gray?style=flat-square&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)![java_score](https://img.shields.io/badge/-[2/5]-gray?style=flat-square&logoColor=white)
 
