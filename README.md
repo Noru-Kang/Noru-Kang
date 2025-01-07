@@ -31,6 +31,12 @@ I have a strength in **Modeling** rather than analyzing data (It's not that I ca
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)![java_score](https://img.shields.io/badge/-[2/5]-gray?style=flat-square&logoColor=white)
 
 ---
+
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noru-Kang)
+<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noru-Kang)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noru-Kang&hide=contribs,prs&show_icons=true&theme=테마)
+
 <!--
 ### Tools 🛠️  
 ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
