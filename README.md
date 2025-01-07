@@ -9,13 +9,8 @@ I've been studying various fields, but now I'm going to try to deepen my studies
 I have a strength in **Modeling** rather than analyzing data (It's not that I can't analyze better than others because I majored in statistics.)  
 I'm currently studying in the **"CAU-ET"** AI lab.  
 
-<div style="display: flex; justify-content: center;">
-  <a href="s">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noru-Kang&layout=compact&hide_progress=true;" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Noru-Kang&theme=default&show_icons=true" style="width: 40%;" />
-  </a>
-</div>
-<br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Noru-Kang&layout=compact&hide_progress=true;)
+<img src="https://github-readme-stats.vercel.app/api?username=Noru-Kang&theme=default&show_icons=true" style="width: 40%;" />
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Noru-Kang&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
