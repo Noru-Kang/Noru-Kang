@@ -39,6 +39,7 @@ I have a strength in **Modeling** rather than analyzing data (It's not that I ca
 #### IDE
 ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 ![rstudio](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)
 
 #### OS
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=apple&logoColor=white)
@@ -48,4 +49,14 @@ I have a strength in **Modeling** rather than analyzing data (It's not that I ca
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white)
 
 ---
+
 #### Contact
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)![gmail_address](https://img.shields.io/badge/-kangty0527@gmail.com-gray?style=flat-square&logoColor=white)
+
+#### Links
+![Website](https://img.shields.io/badge/Website-181717?style=flat-square&logo=github&logoColor=white)![website_link](https://img.shields.io/badge/-Noru--Kang.github.io-gray?style=flat-square&logoColor=white)
+
+
+
+
+
