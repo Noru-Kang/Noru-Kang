@@ -9,7 +9,7 @@ and I'm currently studying in the **"CAU-ET"** AI lab.
 
 ## Stack 🛠️
 ### Data Science & ML/DL
-![js](https://img.shields.io/badge/Python : (4/5)-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![js](https://img.shields.io/badge/Python%20:%20[4/5]-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 
 
 
