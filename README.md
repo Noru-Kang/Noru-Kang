@@ -1,20 +1,23 @@
 <div align="center">
 
 
-## Hi there 👋  
+![Noru-Kang Banner](https://capsule-render.vercel.app/api?type=waving&color=363636&height=150&section=header&text=Noru-Kang&fontSize=50&fontColor=FFD700&fontAlign=20&fontAlignY=30)   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNoru-Kang%2F&count_bg=%232AB4E5D6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://github.com/Noru-Kang)
 
 I major in **Applied Statistics** and **Computer Science**, and I am an interested student in **Data Science** and **ML/DL**.  
 I've been studying various fields, but now I'm going to try to deepen my studies with **Data Science** places.  
-I have a strength in **Modeling** rather than analyzing data (It's not that I can't analyze better than others because I majored in statistics.), and I'm currently studying in the **"CAU-ET"** AI lab.  
+I have a strength in **Modeling** rather than analyzing data (It's not that I can't analyze better than others because I majored in statistics.)  
+I'm currently studying in the **"CAU-ET"** AI lab.  
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <a href="https://github.com/Noru-Kang">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noru-Kang&layout=compact&hide_progress=true" />
+<div style="display: flex; justify-content: center;">
+  <a href="s">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noru-Kang&layout=compact&hide_progress=true;" />
     <img src="https://github-readme-stats.vercel.app/api?username=Noru-Kang&theme=default&show_icons=true" style="width: 40%;" />
   </a>
 </div>
+<br>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Noru-Kang&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -39,8 +42,6 @@ I have a strength in **Modeling** rather than analyzing data (It's not that I ca
 ##### ETC 📚 (familiar with)   
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)![c_score](https://img.shields.io/badge/-[2/5]-gray?style=flat-square&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)![java_score](https://img.shields.io/badge/-[2/5]-gray?style=flat-square&logoColor=white)
-
-
 
 
 <!--
