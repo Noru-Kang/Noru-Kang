@@ -1,4 +1,5 @@
----
+<div align="center">
+
 
 ## Hi there 👋  
 
@@ -6,13 +7,14 @@ I major in **Applied Statistics** and **Computer Science**, and I am an interest
 I've been studying various fields, but now I'm going to try to deepen my studies with **Data Science** places.  
 I have a strength in **Modeling** rather than analyzing data (It's not that I can't analyze better than others because I majored in statistics.), and I'm currently studying in the **"CAU-ET"** AI lab.  
 
----
+<br>
+<br>
 
 ### Stack 🛠️  
 
 ##### Data Science & ML/DL 📊  
 ![python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)![python_score](https://img.shields.io/badge/-[4/5]-gray?style=flat-square&logoColor=white)
-![r](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)![r_score](https://img.shields.io/badge/-[3/5]-gray?style=flat-square&logoColor=white) 
+![r](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)![r_score](https://img.shields.io/badge/-[3/5]-gray?style=flat-square&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)![pytorch_score](https://img.shields.io/badge/-[3.5/5]-gray?style=flat-square&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)![tensorflow_score](https://img.shields.io/badge/-[2/5]-gray?style=flat-square&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)![keras_score](https://img.shields.io/badge/-[3/5]-gray?style=flat-square&logoColor=white)
@@ -30,13 +32,14 @@ I have a strength in **Modeling** rather than analyzing data (It's not that I ca
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)![c_score](https://img.shields.io/badge/-[2/5]-gray?style=flat-square&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)![java_score](https://img.shields.io/badge/-[2/5]-gray?style=flat-square&logoColor=white)
 
----
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Noru-Kang&show_icons=true&theme=transparent)
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noru-Kang&layout=compact)
----
-
-
-
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <a href="s">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noru-Kang&exclude_repo=Noru-Kang.github.io&layout=compact&theme=default" style="width: 33%; height: auto;" />
+  </a>
+  <a href="s">
+    <img src="https://github-readme-stats.vercel.app/api?username=Noru-Kang&theme=default&show_icons=true" style="width: 30%; height: auto;" />
+  </a>
+</div>
 
 
 <!--
@@ -51,12 +54,13 @@ I have a strength in **Modeling** rather than analyzing data (It's not that I ca
 
 #### VCS 🌐  
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white)
-
----
+-->
 
 ### Contact 📬  
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)![gmail_address](https://img.shields.io/badge/-kangty0527@gmail.com-gray?style=flat-square&logoColor=white)
 
 ### Links 🔗  
 ![Website](https://img.shields.io/badge/Website-181717?style=flat-square&logo=github&logoColor=white)![website_link](https://img.shields.io/badge/-Noru--Kang.github.io-gray?style=flat-square&logoColor=white)
---!>
+
+
+</div>
