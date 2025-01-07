@@ -4,12 +4,12 @@ I major in **Applied Statistics** and **Computer Science**, and I am an interest
 <br>
 I've been studying various fields, but now I'm going to try to deepen my studies with **Data Science** places.   
 <br>
-I have a strength in **Modeling** rather than analyzing data(It's not that I can't analyze better than others because I majored in statistics.),   
+I have a strength in **Modeling** rather than analyzing data(It's not that I can't analyze better than others because I majored in statistics.),   
 and I'm currently studying in the **"CAU-ET"** AI lab.
 
 ## Stack 🛠️
 ### Data Science & ML/DL
-![js](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![js](https://img.shields.io/badge/Python-(4/5)-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 
 
 
