@@ -1,15 +1,16 @@
 ## Hi there 👋
 
-I'm a student interested in **Data** and **ML/DL**.   
+I major in **Applied Statistics** and **Computer Science**, and I am an interested student in **Data Science** and **ML/DL**.
 <br>
-I've been studying various fields, but now I'm going to try to deepen my studies with data-related places.   
+I've been studying various fields, but now I'm going to try to deepen my studies with **Data Science** places.   
 <br>
-I mostly use models rather than analysis,   
+I have a strength in **Modeling** rather than analyzing data(It's not that I can't analyze better than others because I majored in statistics.),   
 and I'm currently studying in the **"CAU-ET"** AI lab.
 
-## 🔧 Tools
-### Languages
-<img src="https://img.shields.io/badge/python-808080?style=for-the-badge&logo=python&logoColor=000000" /> <img src="https://img.shields.io/badge/MySQL-808080?style=for-the-badge&logo=MySQL&logoColor=000000" /> <img src="https://img.shields.io/badge/R-808080?style=for-the-badge&logo=R&logoColor=000000" />
+## Stack 🛠️
+### Data Science & ML/DL
+![js](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 
 
