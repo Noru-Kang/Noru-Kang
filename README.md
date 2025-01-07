@@ -2,13 +2,20 @@
 
 
 ## Hi there 👋  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNoru-Kang%2F&count_bg=%232AB4E5D6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://github.com/Noru-Kang)
 
 I major in **Applied Statistics** and **Computer Science**, and I am an interested student in **Data Science** and **ML/DL**.  
 I've been studying various fields, but now I'm going to try to deepen my studies with **Data Science** places.  
 I have a strength in **Modeling** rather than analyzing data (It's not that I can't analyze better than others because I majored in statistics.), and I'm currently studying in the **"CAU-ET"** AI lab.  
 
-<br>
-<br>
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <a href="s">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noru-Kang&layout=compact&hide_progress=true;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Noru-Kang&theme=default&show_icons=true" style="width: 40%;" />
+  </a>
+</div>
+
+---
 
 ### Stack 🛠️  
 
@@ -32,14 +39,7 @@ I have a strength in **Modeling** rather than analyzing data (It's not that I ca
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)![c_score](https://img.shields.io/badge/-[2/5]-gray?style=flat-square&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)![java_score](https://img.shields.io/badge/-[2/5]-gray?style=flat-square&logoColor=white)
 
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <a href="s">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noru-Kang&exclude_repo=Noru-Kang.github.io&layout=compact&theme=default" style="width: 33%; height: auto;" />
-  </a>
-  <a href="s">
-    <img src="https://github-readme-stats.vercel.app/api?username=Noru-Kang&theme=default&show_icons=true" style="width: 30%; height: auto;" />
-  </a>
-</div>
+
 
 
 <!--
@@ -55,11 +55,10 @@ I have a strength in **Modeling** rather than analyzing data (It's not that I ca
 #### VCS 🌐  
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white)
 -->
+---
 
-### Contact 📬  
+### Contact 📬 & Links 🔗 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)![gmail_address](https://img.shields.io/badge/-kangty0527@gmail.com-gray?style=flat-square&logoColor=white)
-
-### Links 🔗  
 ![Website](https://img.shields.io/badge/Website-181717?style=flat-square&logo=github&logoColor=white)![website_link](https://img.shields.io/badge/-Noru--Kang.github.io-gray?style=flat-square&logoColor=white)
 
 
