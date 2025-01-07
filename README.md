@@ -6,7 +6,8 @@
 
 I major in **Applied Statistics** and **Computer Science**, and I am an interested student in **Data Science** and **ML/DL**.  
 I've been studying various fields, but now I'm going to try to deepen my studies with **Data Science** places.  
-I have a strength in **Modeling** rather than analyzing data (It's not that I can't analyze better than others because I majored in statistics.)  
+I have a strength in **Modeling** rather than analyzing data  
+(It's not that I can't analyze better than others because I majored in statistics.)  
 I'm currently studying in the **"CAU-ET"** AI lab.  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Noru-Kang&layout=compact&hide_progress=true;)
