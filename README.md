@@ -31,7 +31,7 @@ I have a strength in **Modeling** rather than analyzing data (It's not that I ca
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)![java_score](https://img.shields.io/badge/-[2/5]-gray?style=flat-square&logoColor=white)
 
 ---
-
+<!--
 ### Tools 🛠️  
 ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 ![rstudio](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=white)
@@ -51,3 +51,4 @@ I have a strength in **Modeling** rather than analyzing data (It's not that I ca
 
 ### Links 🔗  
 ![Website](https://img.shields.io/badge/Website-181717?style=flat-square&logo=github&logoColor=white)![website_link](https://img.shields.io/badge/-Noru--Kang.github.io-gray?style=flat-square&logoColor=white)
+--!>
