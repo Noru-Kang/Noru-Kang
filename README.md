@@ -6,9 +6,6 @@ I've been studying various fields, but now I'm going to try to deepen my studies
 <br>
 I have a strength in **Modeling** rather than analyzing data(It's not that I can't analyze better than others because I majored in statistics.),   
 and I'm currently studying in the **"CAU-ET"** AI lab.
-
-<div align="center">
-
 ## Stack 🛠️
 ### Data Science & ML/DL
 #### Languages
