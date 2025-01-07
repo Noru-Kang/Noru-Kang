@@ -1,54 +1,51 @@
 ## Hi there 👋
 
-I major in **Applied Statistics** and **Computer Science**, and I am an interested student in **Data Science** and **ML/DL**.
-<br>
-I've been studying various fields, but now I'm going to try to deepen my studies with **Data Science** places.   
-<br>
-I have a strength in **Modeling** rather than analyzing data(It's not that I can't analyze better than others because I majored in statistics.),   
-and I'm currently studying in the **"CAU-ET"** AI lab.
+I major in **Applied Statistics** and **Computer Science**, and I am an interested student in **Data Science** and **ML/DL**.<br>
+I've been studying various fields, but now I'm going to try to deepen my studies with **Data Science** places.<br>
+I have a strength in **Modeling** rather than analyzing data (It's not that I can't analyze better than others because I majored in statistics.), and I'm currently studying in the **"CAU-ET"** AI lab.
 
-<div align="center">
+### Stack 🛠️
 
-## Stack 🛠️
-### Data Science & ML/DL
-#### Languages
-<div>
-  <img src="https://img.shields.io/badge/Python%20:%20[4/5]-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R%20:%20[3/5]-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-</div>
+#### Data Science & ML/DL
+##### Languages
+![python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)![python_score](https://img.shields.io/badge/-[4/5]-gray?style=flat-square&logoColor=white)
+![r](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)![r_score](https://img.shields.io/badge/-[3/5]-gray?style=flat-square&logoColor=white)
 
-#### Framework
-<div>
-  <img src="https://img.shields.io/badge/PyTorch%20:%20[3.5/5]-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow%20:%20[2/5]-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-</div>
-<div>
-  <img src="https://img.shields.io/badge/Keras%20:%20[3/5]-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn%20:%20[3.5/5]-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-</div>
+##### Frameworks
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)![pytorch_score](https://img.shields.io/badge/-[3.5/5]-gray?style=flat-square&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)![tensorflow_score](https://img.shields.io/badge/-[2/5]-gray?style=flat-square&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)![keras_score](https://img.shields.io/badge/-[3/5]-gray?style=flat-square&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)![scikit_score](https://img.shields.io/badge/-[3.5/5]-gray?style=flat-square&logoColor=white)
 
-### DataBase
-#### Languages
-<div>
-  <img src="https://img.shields.io/badge/SQL%20:%20[2/5]-4479A1?style=for-the-badge&logo=sql&logoColor=white" />
-</div>
+#### DataBase
+##### Languages
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white)![sql_score](https://img.shields.io/badge/-[2/5]-gray?style=flat-square&logoColor=white)
 
-#### Tools
-<div>
-  <img src="https://img.shields.io/badge/MySQL%20:%20[2/5]-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/BigQuery%20:%20[2/5]-4285F4?style=for-the-badge&logo=google-bigquery&logoColor=white" />
-</div>
+##### Tools
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)![mysql_score](https://img.shields.io/badge/-[3/5]-gray?style=flat-square&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=google-bigquery&logoColor=white)![bigquery_score](https://img.shields.io/badge/-[2/5]-gray?style=flat-square&logoColor=white)
 
-### Visualization
-#### Tools
-<div>
-  <img src="https://img.shields.io/badge/Tableau%20:%20[2/5]-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-</div>
+#### Visualization
+##### Tools
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)![tableau_score](https://img.shields.io/badge/-[2/5]-gray?style=flat-square&logoColor=white)
 
-### ETC (familiar with)
-<div>
-  <img src="https://img.shields.io/badge/VScode-808080?style=for-the-badge&logo=VScode&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Anaconda-808080?style=for-the-badge&logo=Anaconda&logoColor=000000" />
-</div>
+#### ETC (familiar with)
+##### Languages
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)![c_score](https://img.shields.io/badge/-[2/5]-gray?style=flat-square&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)![java_score](https://img.shields.io/badge/-[2/5]-gray?style=flat-square&logoColor=white)
 
-</div>
+### Tools 🛠️
+
+#### IDE
+![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
+![rstudio](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=white)
+
+#### OS
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=apple&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+#### VCS
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white)
+
+---
+#### Contact
