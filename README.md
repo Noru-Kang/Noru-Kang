@@ -17,7 +17,7 @@ and I'm currently studying in the **"CAU-ET"** AI lab.
 ![PyTorch](https://img.shields.io/badge/PyTorch20:%20[4/5]-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow20:%20[2/5]-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras20:%20[3/5]-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-20:%20[4/5]F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn20:%20[4/5]-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 
 
