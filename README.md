@@ -2,7 +2,7 @@
 
 
 ![Noru-Kang Banner](https://capsule-render.vercel.app/api?type=waving&color=363636&height=150&section=header&text=Noru-Kang&fontSize=50&fontColor=FFD700&fontAlign=20&fontAlignY=30)   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNoru-Kang%2F&count_bg=%232AB4E5D6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://github.com/Noru-Kang)
+[![Hits](https://hitscounter.dev/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNoru‑Kang)](https://hitscounter.dev)
 
 I major in **Applied Statistics** and **Computer Science**, and I am an interested student in **Data Science** and **ML/DL**.  
 I've been studying various fields, but now I'm going to try to deepen my studies with **Data Science** places.  
