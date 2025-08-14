@@ -12,9 +12,7 @@ I have a strength in **Modeling** rather than analyzing data
 I'm currently studying in the **"CAU-ET"** AI lab.  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Noru-Kang&layout=compact&hide_progress=true;)
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Noru-Kang&theme=default&show_icons=true" style="width: 43%;" />
 
-[![Noru-Kang's GitHub activity graph](https://<your-domain>.vercel.app/graph?username=Noru-Kang)](https://github.com/Noru-Kang/github-readme-activity-graph)
 
 ---
 
