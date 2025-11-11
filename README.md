@@ -39,7 +39,7 @@ I'm currently studying in the **"CAU-ET"** AI lab.
 
 ##### ETC 📚 (familiar with)   
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)![c_score](https://img.shields.io/badge/-[2/5]-gray?style=flat-square&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)![java_score](https://img.shields.io/badge/-[2/5]-gray?style=flat-square&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)![java_score](https://img.shields.io/badge/-[1/5]-gray?style=flat-square&logoColor=white)
 
 
 <!--
