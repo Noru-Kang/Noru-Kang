@@ -5,11 +5,12 @@
 
 <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FNoru-Kang&label=Noru-Kang&icon=github&color=%23fd7e14&message=&style=flat&tz=ROK">
 
-I major in **Applied Statistics** and **Computer Science**, and I am an interested student in **Data Science** and **ML/DL**.  
-I've been studying various fields, but now I'm going to try to deepen my studies with **Data Science** places.  
-I have a strength in **Modeling** rather than analyzing data  
-(It's not that I can't analyze better than others because I majored in statistics.)  
-I'm currently studying in the **"CAU-ET"** AI lab.  
+I major in **Applied Statistics** and **Computer Science**, and I am deeply interested in **Data Science** and **Machine Learning / Deep Learning**.
+
+I am currently conducting research at the **CAU-ET AI Lab**, a **deep learning–oriented laboratory focusing on signal, speech, and audio processing**.  
+My primary research interests lie in **biosignal analysis**, with a particular focus on **ECG (Electrocardiogram)** and **EEG (Electroencephalogram)** signals.
+
+My research is mainly centered on **deep learning–based approaches** for modeling, analyzing, and interpreting complex biosignal data.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Noru-Kang&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noru-Kang&theme=flag-india&show_icons=true&width=300&height=315)
