@@ -28,10 +28,10 @@ My research is mainly centered on **deep learning–based approaches** for model
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)![scikit_score](https://img.shields.io/badge/-[3.5/5]-gray?style=flat-square&logoColor=white)
 
 ##### DataBase 🗄️  
-also can design database   
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white)![sql_score](https://img.shields.io/badge/-[2/5]-gray?style=flat-square&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)![mysql_score](https://img.shields.io/badge/-[3/5]-gray?style=flat-square&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=google-bigquery&logoColor=white)![bigquery_score](https://img.shields.io/badge/-[2/5]-gray?style=flat-square&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=google-bigquery&logoColor=white)![bigquery_score](https://img.shields.io/badge/-[2/5]-gray?style=flat-square&logoColor=white)   
+also can design DB
 
 ##### Visualization 📈  
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)![tableau_score](https://img.shields.io/badge/-[2/5]-gray?style=flat-square&logoColor=white)
