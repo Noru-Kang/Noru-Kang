@@ -12,8 +12,8 @@ My primary research interests lie in **biosignal analysis**, with a particular f
 
 My research is mainly centered on **deep learning–based approaches** for modeling, analyzing, and interpreting complex biosignal data.
 
-![Top Languages](https://github-readme-stats-navy-theta-91.vercel.app/api/top-langs/?username=Noru-Kang&layout=compact)
-![GitHub Stats](https://github-readme-stats-navy-theta-91.vercel.app/api?username=Noru-Kang&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Noru-Kang&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Noru-Kang&show_icons=true)
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Noru-Kang&show_icons=true" />
