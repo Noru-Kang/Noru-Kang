@@ -20,5 +20,6 @@ jobs:
         with:
           feed_list: "https://noru-kang.github.io/feed.xml"
           max_post_count: 5
-          disable_html_encoding: true # ( ) 등이 깨지지 않게 설정
-          template: "| $title | [바로가기]($url) |$newline" # 반드시 $newline을 끝에 붙여야 행이 나뉩니다.
+          disable_html_encoding: true
+          # 표 형식 대신 깔끔한 리스트 형식으로 변경
+          template: "- $title [**[바로가기]**]($url)$newline"
