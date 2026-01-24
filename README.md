@@ -14,15 +14,17 @@ My research is mainly centered on **deep learning–based approaches** for model
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Noru-Kang&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
-#### Latest Blog Posts 📚
+</div>
 
-<!-- BLOG-POST-LIST:START -->| Clustering(cont.) | [바로가기](https://noru-kang.github.io/posts/Clustering(cont.)/) |
-| (Inceptionv3) Rethinking the Inception Architecture for Computer Vision | [바로가기](https://noru-kang.github.io/posts/(Inceptionv3)-Rethinking-the-Inception-Architecture-for-Computer-Vision/) |
-| (VGG) Very Deep Convolutional Networks for Large-Scale Image Recognition | [바로가기](https://noru-kang.github.io/posts/(VCG)Very-Deep-Convolutional-Networks-for-Large-Scale-Image-Recognition/) |
-| (ZFNet) Visualizing and Understanding Convolutional Networks | [바로가기](https://noru-kang.github.io/posts/(ZFNet)-Visualizing-and-Understanding-Convolutiona-25ca9b246de18068af2bc450e4cf0526/) |
-| (AlexNet) ImageNet Classification with Deep Convolutional Neural Networks | [바로가기](https://noru-kang.github.io/posts/(AlexNet)-ImageNet-Classification-with-Deep-Convol-25ca9b246de1800b878cd59e8addb4dd/) |
-<!-- BLOG-POST-LIST:END -->
+---
+
+### 📚 Latest Blog Posts
+
+| Post | Link |
+| :--- | :--- |
+---
+
+<div align="center">
 
 ---
 
