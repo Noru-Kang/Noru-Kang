@@ -18,7 +18,7 @@ My research is mainly centered on **deep learning–based approaches** for model
 
 ---
 
-<div align="center">
+</div>
 
 ### 📚 Latest Blog Posts
 
