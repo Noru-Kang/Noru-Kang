@@ -14,6 +14,8 @@ My research is mainly centered on **deep learning–based approaches** for model
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Noru-Kang&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noru-Kang&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 ---
