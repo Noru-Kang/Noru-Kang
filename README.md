@@ -12,14 +12,16 @@ My primary research interests lie in **biosignal analysis**, with a particular f
 
 My research is mainly centered on **deep learning–based approaches** for modeling, analyzing, and interpreting complex biosignal data.
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noru-Kang&layout=compact&theme=flag-india" height="165" />
   </a>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noru-Kang&theme=minimal" height="165" />
   </a>
-</div>
+</div> -->
+
+<div align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noru-Kang&layout=compact&theme=flag-india" height="165" /></a><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Noru-Kang&theme=minimal" height="165" /></a></div>
 
 
 </div>
