@@ -20,9 +20,8 @@ My research is mainly centered on **deep learning–based approaches** for model
 
 ### 📚 Latest Blog Posts
 
-| Post | Link |
-| :--- | :--- |
----
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
