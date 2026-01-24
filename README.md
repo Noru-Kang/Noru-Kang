@@ -21,7 +21,7 @@ My research is mainly centered on **deep learning–based approaches** for model
   </a>
 </div> -->
 
-<div align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noru-Kang&layout=compact&theme=flag-india" height="165" /></a><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Noru-Kang&theme=minimal" height="165" /></a></div>
+<div align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noru-Kang&langs_count=10&theme=flag-india" height="165" /></a><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Noru-Kang&theme=minimal" height="165" /></a></div>
 
 
 </div>
