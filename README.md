@@ -17,13 +17,8 @@ My research is mainly centered on **deep learning–based approaches** for model
 ### New
 
 #### Blog
-<div align="center">
-    <img src="https://velog-readme-stats.vercel.app/api?name={velog_ID}" width=40% />
-</div>
-<div align="center">
-    👉🏻 <a href="https://velog.io/@{velog_ID}/posts">velog 바로가기</a>
-</div>
-
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
