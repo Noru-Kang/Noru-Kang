@@ -19,9 +19,6 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://noru-kang.github.io/feed.xml"
-          accept_header: "text/xml"
           max_post_count: 5
-          # HTML 엔티티 인코딩을 비활성화하여 ( ) 등을 그대로 표시합니다.
-          disable_html_encoding: true
-          # 테이블 형식을 유지하기 위해 마지막에 개행($newline)을 추가합니다.
-          template: "| $title | [바로가기]($url) |$newline"
+          disable_html_encoding: true # ( ) 등이 깨지지 않게 설정
+          template: "| $title | [바로가기]($url) |$newline" # 반드시 $newline을 끝에 붙여야 행이 나뉩니다.
