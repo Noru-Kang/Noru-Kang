@@ -1,7 +1,7 @@
 name: Latest blog post workflow
 on:
   schedule:
-    - cron: '0 * * * *'   # 매 시간 정각
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 permissions:
@@ -22,4 +22,4 @@ jobs:
           accept_header: "text/xml"
           max_post_count: 5
           template: |
-            | [$title]($url) |
+            | $title | [바로가기]($url) |
