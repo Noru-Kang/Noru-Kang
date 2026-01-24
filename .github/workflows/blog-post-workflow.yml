@@ -21,5 +21,7 @@ jobs:
           feed_list: "https://noru-kang.github.io/feed.xml"
           max_post_count: 5
           disable_html_encoding: true
-          # 표 형식 대신 깔끔한 리스트 형식으로 변경
-          template: "- $title [**[바로가기]**]($url)$newline"
+          # 핵심 수정 사항: 태그 전후에 줄바꿈을 추가하여 첫 번째 항목 깨짐 방지
+          tag_post_pre_newline: true
+          # 리스트 형식 템플릿
+          template: "- $title [**[바로가기]**]($url)"
