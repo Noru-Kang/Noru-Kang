@@ -12,14 +12,14 @@ jobs:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
       - name: Pull in blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://noru-kang.github.io/feed.xml"
           accept_header: "text/xml"
           max_post_count: 5
+          # escape_html을 false로 설정하면 ( ) 같은 문자가 그대로 나옵니다.
+          escape_html: false
+          # template 끝에 개행(줄바꿈)이 포함되도록 작성합니다.
           template: |
             | $title | [바로가기]($url) |
