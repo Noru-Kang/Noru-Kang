@@ -1,7 +1,11 @@
 name: Latest blog post workflow
+
 on:
+  push:
+    branches:
+      - main   # 기본 브랜치 맞게 수정 가능
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 * * * *'   # 매 시간 실행
   workflow_dispatch:
 
 permissions:
@@ -9,8 +13,9 @@ permissions:
 
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+    name: Update README with latest blog posts
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -21,7 +26,13 @@ jobs:
           feed_list: "https://noru-kang.github.io/feed.xml"
           max_post_count: 5
           disable_html_encoding: true
-          # 핵심 수정 사항: 태그 전후에 줄바꿈을 추가하여 첫 번째 항목 깨짐 방지
           tag_post_pre_newline: true
-          # 리스트 형식 템플릿
           template: "- $title [**[바로가기]**]($url)$newline"
+
+      # 🔥 핵심: inactivity 방지용 강제 commit
+      - name: Keep workflow alive (force commit)
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git commit --allow-empty -m "keep alive" || echo "No changes"
+          git push
