@@ -33,11 +33,11 @@ My research is mainly centered on **deep learning–based approaches** for model
 ### 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [No Title] - Post [**[바로가기]**](https://noru-kang.github.io/posts/26-04-02-%EB%8F%84%EB%A9%94%EC%9D%B8-PSG/)
 - [논문리뷰] A multimodal sleep foundation model for disease prediction(SleepFM) [**[바로가기]**](https://noru-kang.github.io/posts/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0-A-multimodal-sleep-foundation-model-for-disease-prediction.md/)
 - Sleep-EDF Expanded [**[바로가기]**](https://noru-kang.github.io/posts/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%85%8B-Sleep-EDF-Expanded/)
 - PSG-IPA [**[바로가기]**](https://noru-kang.github.io/posts/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%85%8B-PSG-IPA/)
 - HMC Sleep Staging Database [**[바로가기]**](https://noru-kang.github.io/posts/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%85%8B-HMC-Sleep-Staging-Database/)
-- CAP Sleep Database [**[바로가기]**](https://noru-kang.github.io/posts/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%85%8B-CAP-Sleep-Database/)
 
 <!-- BLOG-POST-LIST:END -->
 
