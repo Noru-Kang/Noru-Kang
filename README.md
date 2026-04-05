@@ -33,11 +33,11 @@ My research is mainly centered on **deep learning–based approaches** for model
 ### 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [도메인] PSG [**[바로가기]**](https://noru-kang.github.io/posts/%EB%8F%84%EB%A9%94%EC%9D%B8-PSG/)
-- [논문리뷰] A multimodal sleep foundation model for disease prediction(SleepFM) [**[바로가기]**](https://noru-kang.github.io/posts/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0-A-multimodal-sleep-foundation-model-for-disease-prediction.md/)
-- Sleep-EDF Expanded [**[바로가기]**](https://noru-kang.github.io/posts/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%85%8B-Sleep-EDF-Expanded/)
-- PSG-IPA [**[바로가기]**](https://noru-kang.github.io/posts/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%85%8B-PSG-IPA/)
-- HMC Sleep Staging Database [**[바로가기]**](https://noru-kang.github.io/posts/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%85%8B-HMC-Sleep-Staging-Database/)
+- tidyvocie2026 [**[바로가기]**](https://noru-kang.github.io/posts/tidyvoice2026/)
+- 한국어 학습자를 위한 노래 추천 시스템 [**[바로가기]**](https://noru-kang.github.io/posts/korean/)
+- EEGAAD [**[바로가기]**](https://noru-kang.github.io/posts/eegaad/)
+- Chagas Disease Detection from 12-Lead ECG [**[바로가기]**](https://noru-kang.github.io/posts/Physionet2025/)
+- BirdCLEF 2024 [**[바로가기]**](https://noru-kang.github.io/posts/BirdCLEF-2024/)
 
 <!-- BLOG-POST-LIST:END -->
 
