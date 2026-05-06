@@ -85,7 +85,7 @@ also can design DB
 ---
 
 ### Contact 📬 & Links 🔗 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)![gmail_address](https://img.shields.io/badge/-kangty0527@gmail.com-gray?style=flat-square&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)![gmail_address](https://img.shields.io/badge/-taey.kg@gmail.com-gray?style=flat-square&logoColor=white)
 ![Website](https://img.shields.io/badge/Website-181717?style=flat-square&logo=github&logoColor=white)![website_link](https://img.shields.io/badge/-Noru--Kang.github.io-gray?style=flat-square&logoColor=white)
 
 
