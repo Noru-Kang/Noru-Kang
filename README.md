@@ -33,11 +33,11 @@ My research is mainly centered on **deep learning–based approaches** for model
 ### 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- SAE(Sparse AutoEncoder), Steering Vector [**[바로가기]**](https://noru-kang.github.io/posts/SAE(Sparse-AutoEncoder),-Steering-Vector/)
 - tidyvocie2026 [**[바로가기]**](https://noru-kang.github.io/posts/tidyvoice2026/)
 - 한국어 학습자를 위한 노래 추천 시스템 [**[바로가기]**](https://noru-kang.github.io/posts/korean/)
 - EEGAAD [**[바로가기]**](https://noru-kang.github.io/posts/eegaad/)
 - Chagas Disease Detection from 12-Lead ECG [**[바로가기]**](https://noru-kang.github.io/posts/Physionet2025/)
-- BirdCLEF 2024 [**[바로가기]**](https://noru-kang.github.io/posts/BirdCLEF-2024/)
 
 <!-- BLOG-POST-LIST:END -->
 
