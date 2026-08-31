@@ -68,9 +68,10 @@ Parameter-Efficient Adaptation · Representation Steering · Cross-Domain Learni
 <!-- BLOG-POST-LIST:START -->
 - Paper Follow Up - 26.08 5주차 [**[바로가기]**](https://noru-kang.github.io/posts/Paper-Follow-Up-26.08-5%EC%A3%BC%EC%B0%A8/)
 - Paper Follow Up - 26.08.4주차 [**[바로가기]**](https://noru-kang.github.io/posts/26.08.4%EC%A3%BC%EC%B0%A8/)
-- SAE (Sparse AutoEncoder), Steering Vector [**[바로가기]**](https://noru-kang.github.io/posts/SAE(Sparse-AutoEncoder),-Steering-Vector/)
-- TidyVoice 2026 [**[바로가기]**](https://noru-kang.github.io/posts/tidyvoice2026/)
+- SAE(Sparse AutoEncoder), Steering Vector [**[바로가기]**](https://noru-kang.github.io/posts/SAE(Sparse-AutoEncoder),-Steering-Vector/)
+- tidyvocie2026 [**[바로가기]**](https://noru-kang.github.io/posts/tidyvoice2026/)
 - 한국어 학습자를 위한 노래 추천 시스템 [**[바로가기]**](https://noru-kang.github.io/posts/korean/)
+
 <!-- BLOG-POST-LIST:END -->
 
 ---
