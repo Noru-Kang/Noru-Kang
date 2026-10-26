@@ -66,11 +66,11 @@ Parameter-Efficient Adaptation · Representation Steering · Cross-Domain Learni
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- A Comprehensive Survey on Knowledge Distillation [**[바로가기]**](https://noru-kang.github.io/posts/Comprehensive-Survey-on-Knowledge-Distillation-Deep-Review/)
 - KD(Knowledge Distillation) Basic [**[바로가기]**](https://noru-kang.github.io/posts/KD(Knowledge-Distillation)-Basic/)
 - Paper Follow Up - 26.08 5주차 [**[바로가기]**](https://noru-kang.github.io/posts/Paper-Follow-Up-26.08-5%EC%A3%BC%EC%B0%A8/)
 - Paper Follow Up - 26.08.4주차 [**[바로가기]**](https://noru-kang.github.io/posts/26.08.4%EC%A3%BC%EC%B0%A8/)
 - SAE(Sparse AutoEncoder), Steering Vector [**[바로가기]**](https://noru-kang.github.io/posts/SAE(Sparse-AutoEncoder),-Steering-Vector/)
-- tidyvocie2026 [**[바로가기]**](https://noru-kang.github.io/posts/tidyvoice2026/)
 
 <!-- BLOG-POST-LIST:END -->
 
