@@ -66,11 +66,11 @@ Parameter-Efficient Adaptation · Representation Steering · Cross-Domain Learni
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- Flamingo: a Visual Language Model for Few-Shot Learning [**[바로가기]**](https://noru-kang.github.io/posts/Flamingo/)
+- BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation [**[바로가기]**](https://noru-kang.github.io/posts/BLIP/)
+- Learning Transferable Visual Models From Natural Language Supervision [**[바로가기]**](https://noru-kang.github.io/posts/CLIP/)
 - SourceFree 논문들 정리 [**[바로가기]**](https://noru-kang.github.io/posts/SourceFree-%EB%85%BC%EB%AC%B8-%EC%A0%95%EB%A6%AC/)
 - SourceFree Basic [**[바로가기]**](https://noru-kang.github.io/posts/SourceFree/)
-- ShiftKD : Benchmarking Knowledge Distillation under Distribution Shift [**[바로가기]**](https://noru-kang.github.io/posts/ShiftKD-Benchmarking-Knowledge-Distillation-underDistribution-Shift/)
-- A Comprehensive Survey on Knowledge Distillation [**[바로가기]**](https://noru-kang.github.io/posts/Comprehensive-Survey-on-Knowledge-Distillation-Deep-Review/)
-- KD(Knowledge Distillation) Basic [**[바로가기]**](https://noru-kang.github.io/posts/KD(Knowledge-Distillation)-Basic/)
 
 <!-- BLOG-POST-LIST:END -->
 
